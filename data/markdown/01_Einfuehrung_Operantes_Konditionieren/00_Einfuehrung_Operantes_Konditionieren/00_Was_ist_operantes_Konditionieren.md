@@ -2,7 +2,7 @@
 moduleTitle: Einführung Operantes Konditionieren
 unitTitle: Einführung Operantes Konditionieren
 title: Was ist operantes Konditionieren?
-module: 2
+module: 1
 unit: 0
 subunit: 0
 type: information

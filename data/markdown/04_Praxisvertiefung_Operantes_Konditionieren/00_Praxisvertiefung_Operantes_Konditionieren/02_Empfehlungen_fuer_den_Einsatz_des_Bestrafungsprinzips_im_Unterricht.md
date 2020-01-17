@@ -2,7 +2,7 @@
 moduleTitle: Praxisvertiefung Operantes Konditionieren
 unitTitle: Praxisvertiefung Operantes Konditionieren
 title: Empfehlungen für den Einsatz des Bestrafungsprinzips im Unterricht
-module: 3
+module: 4
 unit: 0
 subunit: 2
 type: information
@@ -28,4 +28,4 @@ Häufige Konfrontation mit Bestrafung kann bei den SchülerInnen außerdem zu ei
 
 > Verhaltensweisen, denen eine Bestrafung folgt, werden zwar unter bestimmten Bedingungen gemieden oder geschwächt, selten aber ganz beseitigt. Es sinkt leidglich die Auftretenswahrscheinlichkeit oder Intensität. Durch Maßnahmen der Bestrafung wird ein Fehlverhalten demnach unterdrückt, nicht aber ein alternatives, angemessenes Verhalten aufgebaut. Bestrafung sollte daher immer als letztes Mittel im Umgang mit unerwünschtem Verhalten gewählt werden.
 
-*Fahren Sie nun nochmals mit der Bearbeitung ihres Begleithefts fort. Anschließend wird die Seminarleiterin mit Ihnen im Plenum weiterarbeiten.*
+*Fahren Sie nun nochmals mit der Bearbeitung ihres Begleithefts fort.*

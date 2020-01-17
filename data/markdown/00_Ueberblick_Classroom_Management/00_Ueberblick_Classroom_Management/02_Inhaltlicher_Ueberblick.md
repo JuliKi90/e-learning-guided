@@ -36,4 +36,4 @@ Alle Inhalte der digitalen Lerneinheit erhalten Sie im Anschluss an die Seminars
 
 Viel Spaß bei der Bearbeitung - los geht's! 
 
-*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Lesen Sie als nächstes die Informationen in Kapitel 1 Fallbeispiele.*
+*Klicken Sie auf den Pfeil oben links und kehren Sie ins Hauptmenü zurück. Lesen Sie als nächstes das Kapitel 1 Einfürhung Operantes Konditionieren.*

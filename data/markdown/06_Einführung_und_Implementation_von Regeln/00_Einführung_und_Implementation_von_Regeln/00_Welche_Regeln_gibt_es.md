@@ -2,7 +2,7 @@
 moduleTitle: Einführung und Implementation von Regeln 
 unitTitle: Einführung und Implementation von Regeln 
 title: Welche Regeln gibt es?
-module: 5
+module: 6
 unit: 0
 subunit: 0
 type: information

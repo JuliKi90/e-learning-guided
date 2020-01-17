@@ -2,7 +2,7 @@
 moduleTitle: Fazit
 unitTitle: Fazit
 title: Fazit
-module: 6
+module: 7
 unit: 0
 subunit: 0
 type: information

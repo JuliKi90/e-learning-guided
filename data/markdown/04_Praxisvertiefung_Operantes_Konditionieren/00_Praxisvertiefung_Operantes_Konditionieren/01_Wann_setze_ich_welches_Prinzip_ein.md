@@ -2,7 +2,7 @@
 moduleTitle: Praxisvertiefung Operantes Konditionieren
 unitTitle: Praxisvertiefung Operantes Konditionieren
 title: Wann setze ich welches Prinzip ein?
-module: 3
+module: 4
 unit: 0
 subunit: 1
 type: information
