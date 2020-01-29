@@ -14,4 +14,4 @@ Bitte sehen Sie sich die folgende Filmsequenz **nur einmal** an und beantworten 
 
 *Hinweis: Aus datenschutztechnischen Gründen weisen wir Sie darauf hin, dass es sich bei der gezeigten Sequenz nicht um eine echte Unterrichtssituation handelt, sondern diese auf Grundlage eines Drehbuchs entstanden ist. Das Lehrkraft- und Schüler*Innenverhalten entspricht u.U. nicht dem tatsächlichen Verhalten der gezeigten Personen.*  
 
-<video name="/videos/V6_Verstärkerplan.mp4"></video>
+<video name="/videos/V6_Verstärkerplan_komp.mp4"></video>
